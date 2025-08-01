@@ -12,3 +12,4 @@ services:
       MONGODB_DATABASE: nest-pokemon
     volumes:
       - ./mongo:/data/db
+
